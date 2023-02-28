@@ -1,6 +1,6 @@
 # CHATGPT CLONE
 
-A chatGPT clone made with Typescript 
+A chatGPT clone heco con Tyscript
 
 Inspirado en el chat de:  <a href="https://chat-gtp-clone.vercel.app/" target="_blank">Vercel App</a>
 
