@@ -21,7 +21,7 @@ Inspirado en el chat de:  <a href="https://chat-gtp-clone.vercel.app/" target="_
 - Para correr el `backend/` folder
   ```bash
   cd API_ChatGPT
-  cd ChatGTP-clone
+  cd ChatGPT-clone
   cd backend
   ```
   Carga las dependencias
