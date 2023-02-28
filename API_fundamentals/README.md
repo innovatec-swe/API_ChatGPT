@@ -3,6 +3,13 @@
 - Este código configura la clave de la API de OpenAI, define la sugerencia de texto para que la API genere texto, especifica el modelo GPT-3 que se va a utilizar y establece la temperatura y el número máximo de tokens para el texto generado.
 Uso
 
+## Instalar
+
+- Debemos asegurarnos de installar la libería de OpenAI
+  ```bash
+  pip install openai
+  ```
+
 # Para utilizar este código, debes seguir los siguientes pasos:
 
       ➜ Obtener una clave de API de OpenAI.
