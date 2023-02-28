@@ -6,7 +6,7 @@ Inspirado en el chat de:  <a href="https://chat-gtp-clone.vercel.app/" target="_
 
 ## How to run(?)
 
-- Para correclo tenemos que usar node (asegurarnos de que esté en una versión)
+- Para correrlo tenemos que usar node (asegurarnos de que esté en una versión)
   ```bash
   node -v
   ```
