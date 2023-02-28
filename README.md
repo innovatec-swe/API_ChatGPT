@@ -1,5 +1,5 @@
 # CHATGPT DOC BASIS
-##by Katy Fdz
+## by Katy Fdz
 
 - En el siguiente repo busco mostrar un ejemplo base en elque se manda a llamr a OpenAI desde su función de generación de respuestas. 
 
