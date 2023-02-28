@@ -22,13 +22,10 @@
   ```bash
   cd API_ChatGPT/API_fundamentals
   ```
-
-  ```
 - En carpeta ChatGPT-clone está un tutorial de generación de un clone de OpenAI usando tyscript y elementos de node.js, vite, express, etc. Bastante utiles. Con base a este modelo se pueden generar respuestas ilimitadas (hice cerca de 25 no me genero ningún bloqueo)
 
   ```bash
   cd API_ChatGPT/ChatGTP-clone
-  ```
   ```
 
 ## Extra
