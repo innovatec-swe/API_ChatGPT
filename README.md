@@ -1,5 +1,5 @@
 # CHATGPT DOC BASIS
-## by Katy Fdz
+## Si genera errores en carga revisar repositorio base: https://github.com/Jace-Tech/ChatGTP-clone.git 
 
 - En el siguiente repo busco mostrar un ejemplo base en elque se manda a llamr a OpenAI desde su función de generación de respuestas. 
 
