@@ -1,6 +1,6 @@
 # CHATGPT CLONE
 
-A chatGPT clone heco con Tyscript
+A chatGPT clone hecho con Tyscript 
 
 Inspirado en el chat de:  <a href="https://chat-gtp-clone.vercel.app/" target="_blank">Vercel App</a>
 
@@ -16,11 +16,11 @@ Inspirado en el chat de:  <a href="https://chat-gtp-clone.vercel.app/" target="_
   
 - Clona mi repo
   ```bash
-  git clone https://github.com/innovatec-swe/ChatGTP-clone.git
+  git clone https://github.com/innovatec-swe/API_ChatGPT.git
   ```
 - Para correr el `backend/` folder
   ```bash
-  cd ChatGTP-clone/backend
+  cd API_ChatGPT/ChatGTP-clone/backend
   ```
   Carga las dependencias
   ```bash
